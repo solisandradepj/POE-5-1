@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## POE 5-1
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
